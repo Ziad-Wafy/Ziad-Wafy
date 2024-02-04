@@ -11,6 +11,5 @@ Here are some ideas to get you started: -->
 - 🤔 I’m looking for help with learning programming with good learning team
 - 💬 Ask me about tech ideas
 - 📫 How to reach me: by Twitter
-- 😄 Pronouns: Student
-- ⚡ Fun fact: 
+- 😄 Pronouns: Student & Software engineer
 
